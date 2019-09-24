@@ -81,7 +81,7 @@ function MM_swapImage() { //v3.0
     </table></td>
   </tr>
 </table>
-<img src="ปุ่ม/1.gif" width="500" height="400" />
+
 <table width="1554" height="89" border="0" align="center" cellpadding="0" cellspacing="0">
   <tr>
     <td><img src="img/fodder.gif" width="1551" height="100" /></td>
