@@ -46,14 +46,7 @@ function MM_swapImage() { //v3.0
       </tr>
       <tr>
         <td height="116"><a href="ประวัติจังหวัดอุทัยธานี.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2','','ปุ่ม/b.t1.gif',1)"><img src="ปุ่ม/bt1.gif" name="Image2" width="200" height="80" id="Image2" /></a></td>
-        <td colspan="4" rowspan="9" valign="top"><table width="1342" height="608" border="0" cellpadding="0" cellspacing="0">
-          <tr>
-            <td height="100">&nbsp;</td>
-            </tr>
-          <tr>
-            <td height="494" valign="top">&nbsp;</td>
-          </tr>
-        </table></td>
+        <td colspan="4" rowspan="9" valign="top">&nbsp;</td>
         </tr>
       <tr>
         <td><a href="อำเภอเมือง.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','ปุ่ม/b.t2.gif',1)"><img src="ปุ่ม/bt2.gif" width="200" height="80" id="Image3" /></a></td>
